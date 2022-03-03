@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yesarsha (Syed Arshad Ali)
-- 👀 I’m interested in Web Development and App Development
-- 🌱 I’m currently learning in Web App Development (Batch 2021) to become Full Stack Developer.
+- 👀 I’m interested in Web App Development
+- 🌱 I’m currently learning Web App Development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me, by my email; sy01ali@yahoo.com
 
